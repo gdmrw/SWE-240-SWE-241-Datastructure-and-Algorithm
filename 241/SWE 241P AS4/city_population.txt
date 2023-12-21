@@ -1,0 +1,1000 @@
+New York : 8405837
+Los Angeles : 3884307
+Chicago : 2718782
+Houston : 2195914
+Philadelphia : 1553165
+Phoenix : 1513367
+San Antonio : 1409019
+San Diego : 1355896
+Dallas : 1257676
+San Jose : 998537
+Austin : 885400
+Indianapolis : 843393
+Jacksonville : 842583
+San Francisco : 837442
+Columbus : 822553
+Charlotte : 792862
+Fort Worth : 792727
+Detroit : 688701
+El Paso : 674433
+Memphis : 653450
+Seattle : 652405
+Denver : 649495
+Washington : 646449
+Boston : 645966
+Nashville-Davidson : 634464
+Baltimore : 622104
+Oklahoma City : 610613
+Louisville/Jefferson County : 609893
+Portland : 609456
+Las Vegas : 603488
+Milwaukee : 599164
+Albuquerque : 556495
+Tucson : 526116
+Fresno : 509924
+Sacramento : 479686
+Long Beach : 469428
+Kansas City : 467007
+Mesa : 457587
+Virginia Beach : 448479
+Atlanta : 447841
+Colorado Springs : 439886
+Omaha : 434353
+Raleigh : 431746
+Miami : 417650
+Oakland : 406253
+Minneapolis : 400070
+Tulsa : 398121
+Cleveland : 390113
+Wichita : 386552
+Arlington : 379577
+New Orleans : 378715
+Bakersfield : 363630
+Tampa : 352957
+Honolulu : 347884
+Aurora : 345803
+Anaheim : 345012
+Santa Ana : 334227
+St. Louis : 318416
+Riverside : 316619
+Corpus Christi : 316381
+Lexington-Fayette : 308428
+Pittsburgh : 305841
+Anchorage : 300950
+Stockton : 298118
+Cincinnati : 297517
+St. Paul : 294873
+Toledo : 282313
+Greensboro : 279639
+Newark : 278427
+Plano : 274409
+Henderson : 270811
+Lincoln : 268738
+Buffalo : 258959
+Jersey City : 257342
+Chula Vista : 256780
+Fort Wayne : 256496
+Orlando : 255483
+St. Petersburg : 249688
+Chandler : 249146
+Laredo : 248142
+Norfolk : 246139
+Durham : 245475
+Madison : 243344
+Lubbock : 239538
+Irvine : 236716
+Winston-Salem : 236441
+Glendale : 234632
+Garland : 234566
+Hialeah : 233394
+Reno : 233294
+Chesapeake : 230571
+Gilbert : 229972
+Baton Rouge : 229426
+Irving : 228653
+Scottsdale : 226918
+North Las Vegas : 226877
+Fremont : 224922
+Boise City : 214237
+Richmond : 214114
+San Bernardino : 213708
+Birmingham : 212113
+Spokane : 210721
+Rochester : 210358
+Des Moines : 207510
+Modesto : 204933
+Fayetteville : 204408
+Tacoma : 203446
+Oxnard : 203007
+Fontana : 203003
+Columbus : 202824
+Montgomery : 201332
+Moreno Valley : 201175
+Shreveport : 200327
+Aurora : 199963
+Yonkers : 199766
+Akron : 198100
+Huntington Beach : 197575
+Little Rock : 197357
+Augusta-Richmond County : 197350
+Amarillo : 196429
+Glendale : 196021
+Mobile : 194899
+Grand Rapids : 192294
+Salt Lake City : 191180
+Tallahassee : 186411
+Huntsville : 186254
+Grand Prairie : 183372
+Knoxville : 183270
+Worcester : 182544
+Newport News : 182020
+Brownsville : 181860
+Overland Park : 181260
+Santa Clarita : 179590
+Providence : 177994
+Garden Grove : 175140
+Chattanooga : 173366
+Oceanside : 172794
+Jackson : 172638
+Fort Lauderdale : 172389
+Santa Rosa : 171990
+Rancho Cucamonga : 171386
+Port St. Lucie : 171016
+Tempe : 168228
+Ontario : 167500
+Vancouver : 167405
+Cape Coral : 165831
+Sioux Falls : 164676
+Springfield : 164122
+Peoria : 162592
+Pembroke Pines : 162329
+Elk Grove : 161007
+Salem : 160614
+Lancaster : 159523
+Corona : 159503
+Eugene : 159190
+Palmdale : 157161
+Salinas : 155662
+Springfield : 153703
+Pasadena : 152735
+Fort Collins : 152061
+Hayward : 151574
+Pomona : 151348
+Cary : 151088
+Rockford : 150251
+Alexandria : 148892
+Escondido : 148738
+McKinney : 148559
+Kansas City : 148483
+Joliet : 147806
+Sunnyvale : 147559
+Torrance : 147478
+Bridgeport : 147216
+Lakewood : 147214
+Hollywood : 146526
+Paterson : 145948
+Naperville : 144864
+Syracuse : 144669
+Mesquite : 143484
+Dayton : 143355
+Savannah : 142772
+Clarksville : 142357
+Orange : 139969
+Pasadena : 139731
+Fullerton : 138981
+Killeen : 137147
+Frisco : 136791
+Hampton : 136699
+McAllen : 136639
+Warren : 134873
+Bellevue : 133992
+West Valley City : 133579
+Columbia : 133358
+Olathe : 131885
+Sterling Heights : 131224
+New Haven : 130660
+Miramar : 130288
+Waco : 129030
+Thousand Oaks : 128731
+Cedar Rapids : 128429
+Charleston : 127999
+Visalia : 127763
+Topeka : 127679
+Elizabeth : 127558
+Gainesville : 127488
+Thornton : 127359
+Roseville : 127035
+Carrollton : 126700
+Coral Springs : 126604
+Stamford : 126456
+Simi Valley : 126181
+Concord : 125880
+Hartford : 125017
+Kent : 124435
+Lafayette : 124276
+Midland : 123933
+Surprise : 123546
+Denton : 123099
+Victorville : 121096
+Evansville : 120310
+Santa Clara : 120245
+Abilene : 120099
+Athens-Clarke County : 119980
+Vallejo : 118837
+Allentown : 118577
+Norman : 118197
+Beaumont : 117796
+Independence : 117240
+Murfreesboro : 117044
+Ann Arbor : 117025
+Springfield : 117006
+Berkeley : 116768
+Peoria : 116513
+Provo : 116288
+El Monte : 115708
+Columbia : 115276
+Lansing : 113972
+Fargo : 113658
+Downey : 113242
+Costa Mesa : 112174
+Wilmington : 112067
+Arvada : 111707
+Inglewood : 111542
+Miami Gardens : 111378
+Carlsbad : 110972
+Westminster : 110945
+Rochester : 110742
+Odessa : 110720
+Manchester : 110378
+Elgin : 110145
+West Jordan : 110077
+Round Rock : 109821
+Clearwater : 109703
+Waterbury : 109676
+Gresham : 109397
+Fairfield : 109320
+Billings : 109059
+Lowell : 108861
+San Buenaventura (Ventura) : 108817
+Pueblo : 108249
+High Point : 107741
+West Covina : 107740
+Richmond : 107571
+Murrieta : 107479
+Cambridge : 107289
+Antioch : 107100
+Temecula : 106780
+Norwalk : 106589
+Centennial : 106114
+Everett : 105370
+Palm Bay : 104898
+Wichita Falls : 104898
+Green Bay : 104779
+Daly City : 104739
+Burbank : 104709
+Richardson : 104475
+Pompano Beach : 104410
+North Charleston : 104054
+Broken Arrow : 103500
+Boulder : 103166
+West Palm Beach : 102436
+Santa Maria : 102216
+El Cajon : 102211
+Davenport : 102157
+Rialto : 101910
+Las Cruces : 101324
+San Mateo : 101128
+Lewisville : 101074
+South Bend : 100886
+Lakeland : 100710
+Erie : 100671
+Tyler : 100223
+Pearland : 100065
+College Station : 100050
+Kenosha : 99889
+Sandy Springs : 99770
+Clovis : 99769
+Flint : 99763
+Roanoke : 98465
+Albany : 98424
+Jurupa Valley : 98030
+Compton : 97877
+San Angelo : 97492
+Hillsboro : 97368
+Lawton : 97151
+Renton : 97003
+Vista : 96929
+Davie : 96830
+Greeley : 96539
+Mission Viejo : 96346
+Portsmouth : 96205
+Dearborn : 95884
+South Gate : 95677
+Tuscaloosa : 95334
+Livonia : 95208
+New Bedford : 95078
+Vacaville : 94275
+Brockton : 94089
+Roswell : 94034
+Beaverton : 93542
+Quincy : 93494
+Sparks : 93282
+Yakima : 93257
+Lee's Summit : 93184
+Federal Way : 92734
+Carson : 92599
+Santa Monica : 92472
+Hesperia : 92147
+Allen : 92020
+Rio Rancho : 91956
+Yuma : 91923
+Westminster : 91739
+Orem : 91648
+Lynn : 91589
+Redding : 91119
+Spokane Valley : 91113
+Miami Beach : 91026
+League City : 90983
+Lawrence : 90811
+Santa Barbara : 90412
+Plantation : 90268
+Sandy : 90231
+Sunrise : 90116
+Macon : 89981
+Longmont : 89919
+Boca Raton : 89407
+San Marcos : 89387
+Greenville : 89130
+Waukegan : 88826
+Fall River : 88697
+Chico : 88077
+Newton : 87971
+San Leandro : 87965
+Reading : 87893
+Norwalk : 87776
+Fort Smith : 87650
+Newport Beach : 87273
+Asheville : 87236
+Nashua : 87137
+Edmond : 87004
+Whittier : 86635
+Nampa : 86518
+Bloomington : 86319
+Deltona : 86290
+Hawthorne : 86199
+Duluth : 86128
+Carmel : 85927
+Suffolk : 85728
+Clifton : 85390
+Citrus Heights : 85285
+Livermore : 85156
+Tracy : 84691
+Alhambra : 84577
+Kirkland : 84430
+Trenton : 84349
+Ogden : 84249
+Hoover : 84126
+Cicero : 84103
+Fishers : 83891
+Sugar Land : 83860
+Danbury : 83684
+Meridian : 83596
+Indio : 83539
+Concord : 83506
+Menifee : 83447
+Champaign : 83424
+Buena Park : 82882
+Troy : 82821
+O'Fallon : 82809
+Johns Creek : 82788
+Bellingham : 82631
+Westland : 82578
+Bloomington : 82575
+Sioux City : 82459
+Warwick : 81971
+Hemet : 81750
+Longview : 81443
+Farmington Hills : 81295
+Bend : 81236
+Lakewood : 81121
+Merced : 81102
+Mission : 81050
+Chino : 80988
+Redwood City : 80872
+Edinburg : 80836
+Cranston : 80566
+Parma : 80429
+New Rochelle : 79446
+Lake Forest : 79312
+Napa : 79068
+Hammond : 78967
+Fayetteville : 78960
+Bloomington : 78902
+Avondale : 78822
+Somerville : 78804
+Palm Coast : 78740
+Bryan : 78709
+Gary : 78450
+Largo : 78409
+Brooklyn Park : 78373
+Tustin : 78327
+Racine : 78199
+Deerfield Beach : 78041
+Lynchburg : 78014
+Mountain View : 77846
+Medford : 77677
+Lawrence : 77657
+Bellflower : 77593
+Melbourne : 77508
+St. Joseph : 77147
+Camden : 76903
+St. George : 76817
+Kennewick : 76762
+Baldwin Park : 76635
+Chino Hills : 76572
+Alameda : 76419
+Albany : 76185
+Arlington Heights : 75994
+Scranton : 75806
+Evanston : 75570
+Kalamazoo : 75548
+Baytown : 75418
+Upland : 75413
+Springdale : 75229
+Bethlehem : 75018
+Schaumburg : 74907
+Mount Pleasant : 74885
+Auburn : 74860
+Decatur : 74710
+San Ramon : 74513
+Pleasanton : 74110
+Wyoming : 74100
+Lake Charles : 74024
+Plymouth : 73987
+Bolingbrook : 73936
+Pharr : 73790
+Appleton : 73596
+Gastonia : 73209
+Folsom : 73098
+Southfield : 73006
+Rochester Hills : 72952
+New Britain : 72939
+Goodyear : 72864
+Canton : 72535
+Warner Robins : 72531
+Union City : 72528
+Perris : 72326
+Manteca : 71948
+Iowa City : 71591
+Jonesboro : 71551
+Wilmington : 71525
+Lynwood : 71371
+Loveland : 71334
+Pawtucket : 71172
+Boynton Beach : 71097
+Waukesha : 71016
+Gulfport : 71012
+Apple Valley : 70924
+Passaic : 70868
+Rapid City : 70812
+Layton : 70790
+Lafayette : 70373
+Turlock : 70365
+Muncie : 70316
+Temple : 70190
+Missouri City : 70185
+Redlands : 69999
+Santa Fe : 69976
+Lauderhill : 69813
+Milpitas : 69783
+Palatine : 69350
+Missoula : 69122
+Rock Hill : 69103
+Jacksonville : 69079
+Franklin : 68886
+Flagstaff : 68667
+Flower Mound : 68609
+Weston : 68388
+Waterloo : 68366
+Union City : 68247
+Mount Vernon : 68224
+Fort Myers : 68190
+Dothan : 68001
+Rancho Cordova : 67911
+Redondo Beach : 67815
+Jackson : 67685
+Pasco : 67599
+St. Charles : 67569
+Eau Claire : 67545
+North Richland Hills : 67317
+Bismarck : 67034
+Yorba Linda : 67032
+Kenner : 66975
+Walnut Creek : 66900
+Frederick : 66893
+Oshkosh : 66778
+Pittsburg : 66695
+Palo Alto : 66642
+Bossier City : 66333
+Portland : 66318
+St. Cloud : 66297
+Davis : 66205
+South San Francisco : 66174
+Camarillo : 66086
+North Little Rock : 66075
+Schenectady : 65902
+Gaithersburg : 65690
+Harlingen : 65665
+Woodbury : 65656
+Eagan : 65453
+Yuba City : 65416
+Maple Grove : 65415
+Youngstown : 65184
+Skokie : 65176
+Kissimmee : 65173
+Johnson City : 65123
+Victoria : 65098
+San Clemente : 65040
+Bayonne : 65028
+Laguna Niguel : 64652
+East Orange : 64544
+Shawnee : 64323
+Homestead : 64079
+Rockville : 64072
+Delray Beach : 64072
+Janesville : 63820
+Conway : 63816
+Pico Rivera : 63771
+Lorain : 63710
+Montebello : 63495
+Lodi : 63338
+New Braunfels : 63279
+Marysville : 63269
+Tamarac : 63155
+Madera : 63105
+Conroe : 63032
+Santa Cruz : 62864
+Eden Prairie : 62603
+Cheyenne : 62448
+Daytona Beach : 62316
+Alpharetta : 62298
+Hamilton : 62258
+Waltham : 62227
+Coon Rapids : 62103
+Haverhill : 62088
+Council Bluffs : 61969
+Taylor : 61817
+Utica : 61808
+Ames : 61792
+La Habra : 61653
+Encinitas : 61588
+Bowling Green : 61488
+Burnsville : 61434
+Greenville : 61397
+West Des Moines : 61255
+Cedar Park : 61238
+Tulare : 61170
+Monterey Park : 61085
+Vineland : 61050
+Terre Haute : 61025
+North Miami : 61007
+Mansfield : 60872
+West Allis : 60697
+Bristol : 60568
+Taylorsville : 60519
+Malden : 60509
+Meriden : 60456
+Blaine : 60407
+Wellington : 60202
+Cupertino : 60189
+Springfield : 60177
+Rogers : 60112
+St. Clair Shores : 60070
+Gardena : 59957
+Pontiac : 59887
+National City : 59834
+Grand Junction : 59778
+Rocklin : 59738
+Chapel Hill : 59635
+Casper : 59628
+Broomfield : 59471
+Petaluma : 59440
+South Jordan : 59366
+Springfield : 59357
+Great Falls : 59351
+Lancaster : 59325
+North Port : 59212
+Lakewood : 59097
+Marietta : 59089
+San Rafael : 58994
+Royal Oak : 58946
+Des Plaines : 58918
+Huntington Park : 58879
+La Mesa : 58642
+Orland Park : 58590
+Auburn : 58582
+Lakeville : 58562
+Owensboro : 58416
+Moore : 58414
+Jupiter : 58298
+Idaho Falls : 58292
+Dubuque : 58253
+Bartlett : 58226
+Rowlett : 58043
+Novi : 57960
+White Plains : 57866
+Arcadia : 57639
+Redmond : 57530
+Lake Elsinore : 57525
+Ocala : 57468
+Tinley Park : 57282
+Port Orange : 57203
+Medford : 57170
+Oak Lawn : 57073
+Rocky Mount : 56954
+Kokomo : 56895
+Coconut Creek : 56792
+Bowie : 56759
+Berwyn : 56758
+Midwest City : 56756
+Fountain Valley : 56707
+Buckeye : 56683
+Dearborn Heights : 56620
+Woodland : 56590
+Noblesville : 56540
+Valdosta : 56481
+Diamond Bar : 56449
+Manhattan : 56143
+Santee : 56105
+Taunton : 56069
+Sanford : 56002
+Kettering : 55870
+New Brunswick : 55831
+Decatur : 55816
+Chicopee : 55717
+Anderson : 55670
+Margate : 55456
+Weymouth Town : 55419
+Hempstead : 55361
+Corvallis : 55298
+Eastvale : 55191
+Porterville : 55174
+West Haven : 55046
+Brentwood : 55000
+Paramount : 54980
+Grand Forks : 54932
+Georgetown : 54898
+St. Peters : 54842
+Shoreline : 54790
+Mount Prospect : 54771
+Hanford : 54686
+Normal : 54664
+Rosemead : 54561
+Lehi : 54382
+Pocatello : 54350
+Highland : 54291
+Novato : 54194
+Port Arthur : 54135
+Carson City : 54080
+San Marcos : 54076
+Hendersonville : 54068
+Elyria : 53956
+Revere : 53756
+Pflugerville : 53752
+Greenwood : 53665
+Bellevue : 53663
+Wheaton : 53648
+Smyrna : 53438
+Sarasota : 53326
+Blue Springs : 53294
+Colton : 53243
+Euless : 53224
+Castle Rock : 53063
+Cathedral City : 52977
+Kingsport : 52962
+Lake Havasu City : 52844
+Pensacola : 52703
+Hoboken : 52575
+Yucaipa : 52536
+Watsonville : 52477
+Richland : 52413
+Delano : 52403
+Hoffman Estates : 52398
+Florissant : 52363
+Placentia : 52206
+West New York : 52122
+Dublin : 52105
+Oak Park : 52066
+Peabody : 52044
+Perth Amboy : 51982
+Battle Creek : 51848
+Bradenton : 51763
+Gilroy : 51701
+Milford : 51644
+Albany : 51583
+Ankeny : 51567
+La Crosse : 51522
+Burlington : 51510
+DeSoto : 51483
+Harrisonburg : 51395
+Minnetonka : 51368
+Elkhart : 51265
+Lakewood : 51143
+Glendora : 51074
+Southaven : 50997
+Charleston : 50821
+Joplin : 50789
+Enid : 50725
+Palm Beach Gardens : 50699
+Brookhaven : 50603
+Plainfield : 50588
+Grand Island : 50550
+Palm Desert : 50508
+Huntersville : 50458
+Tigard : 50444
+Lenexa : 50344
+Saginaw : 50303
+Kentwood : 50233
+Doral : 50213
+Apple Valley : 50201
+Grapevine : 50195
+Aliso Viejo : 50175
+Sammamish : 50169
+Casa Grande : 50111
+Pinellas Park : 49998
+Troy : 49974
+West Sacramento : 49891
+Burien : 49858
+Commerce City : 49799
+Monroe : 49761
+Cerritos : 49707
+Downers Grove : 49670
+Coral Gables : 49631
+Wilson : 49628
+Niagara Falls : 49468
+Poway : 49417
+Edina : 49376
+Cuyahoga Falls : 49267
+Rancho Santa Margarita : 49228
+Harrisburg : 49188
+Huntington : 49177
+La Mirada : 49133
+Cypress : 49087
+Caldwell : 48957
+Logan : 48913
+Galveston : 48733
+Sheboygan : 48725
+Middletown : 48630
+Murray : 48612
+Roswell : 48611
+Parker : 48608
+Bedford : 48592
+East Lansing : 48554
+Methuen : 48514
+Covina : 48508
+Alexandria : 48426
+Olympia : 48338
+Euclid : 48139
+Mishawaka : 47989
+Salina : 47846
+Azusa : 47842
+Newark : 47777
+Chesterfield : 47749
+Leesburg : 47673
+Dunwoody : 47591
+Hattiesburg : 47556
+Roseville : 47555
+Bonita Springs : 47547
+Portage : 47523
+St. Louis Park : 47411
+Collierville : 47333
+Middletown : 47333
+Stillwater : 47186
+East Providence : 47149
+Lawrence : 47135
+Wauwatosa : 47134
+Mentor : 46979
+Ceres : 46714
+Cedar Hill : 46663
+Mansfield : 46454
+Binghamton : 46444
+Coeur d'Alene : 46402
+San Luis Obispo : 46377
+Minot : 46321
+Palm Springs : 46281
+Pine Bluff : 46094
+Texas City : 46081
+Summerville : 46074
+Twin Falls : 45981
+Jeffersonville : 45929
+San Jacinto : 45851
+Madison : 45799
+Altoona : 45796
+Columbus : 45775
+Beavercreek : 45712
+Apopka : 45587
+Elmhurst : 45556
+Maricopa : 45508
+Farmington : 45426
+Glenview : 45417
+Cleveland Heights : 45394
+Draper : 45285
+Lincoln : 45237
+Sierra Vista : 45129
+Lacey : 44919
+Biloxi : 44820
+Strongsville : 44730
+Barnstable Town : 44641
+Wylie : 44575
+Sayreville : 44412
+Kannapolis : 44359
+Charlottesville : 44349
+Littleton : 44275
+Titusville : 44206
+Hackensack : 44113
+Newark : 44096
+Pittsfield : 44057
+York : 43935
+Lombard : 43907
+Attleboro : 43886
+DeKalb : 43849
+Blacksburg : 43609
+Dublin : 43607
+Haltom City : 43580
+Lompoc : 43509
+El Centro : 43363
+Danville : 43341
+Jefferson City : 43330
+Cutler Bay : 43328
+Oakland Park : 43286
+North Miami Beach : 43250
+Freeport : 43167
+Moline : 43116
+Coachella : 43092
+Fort Pierce : 43074
+Smyrna : 43060
+Bountiful : 43023
+Fond du Lac : 42970
+Everett : 42935
+Danville : 42907
+Keller : 42907
+Belleville : 42895
+Bell Gardens : 42889
+Cleveland : 42774
+North Lauderdale : 42757
+Fairfield : 42635
+Salem : 42544
+Rancho Palos Verdes : 42448
+San Bruno : 42443
+Concord : 42419
+Burlington : 42284
+Apex : 42214
+Midland : 42181
+Altamonte Springs : 42150
+Hutchinson : 41889
+Buffalo Grove : 41778
+Urbandale : 41776
+State College : 41757
+Urbana : 41752
+Plainfield : 41734
+Manassas : 41705
+Bartlett : 41679
+Kearny : 41664
+Oro Valley : 41627
+Findlay : 41512
+Rohnert Park : 41398
+Westfield : 41301
+Linden : 41301
+Sumter : 41190
+Wilkes-Barre : 41108
+Woonsocket : 41026
+Leominster : 41002
+Shelton : 40999
+Brea : 40963
+Covington : 40956
+Rockwall : 40922
+Meridian : 40921
+Riverton : 40921
+St. Cloud : 40918
+Quincy : 40915
+Morgan Hill : 40836
+Warren : 40768
+Edmonds : 40727
+Burleson : 40714
+Beverly : 40664
+Mankato : 40641
+Hagerstown : 40612
+Prescott : 40590
+Campbell : 40584
+Cedar Falls : 40566
+Beaumont : 40481
+La Puente : 40435
+Crystal Lake : 40388
+Fitchburg : 40383
+Carol Stream : 40379
+Hickory : 40361
+Streamwood : 40351
+Norwich : 40347
+Coppell : 40342
+San Gabriel : 40275
+Holyoke : 40249
+Bentonville : 40167
+Florence : 40059
+Peachtree Corners : 40059
+Brentwood : 40021
+Bozeman : 39860
+New Berlin : 39834
+Goose Creek : 39823
+Huntsville : 39795
+Prescott Valley : 39791
+Maplewood : 39765
+Romeoville : 39650
+Duncanville : 39605
+Atlantic City : 39551
+Clovis : 39508
+The Colony : 39458
+Culver City : 39428
+Marlborough : 39414
+Hilton Head Island : 39412
+Moorhead : 39398
+Calexico : 39389
+Bullhead City : 39383
+Germantown : 39375
+La Quinta : 39331
+Lancaster : 39325
+Wausau : 39309
+Sherman : 39296
+Ocoee : 39172
+Shakopee : 39167
+Woburn : 39083
+Bremerton : 39056
+Rock Island : 38877
+Muskogee : 38863
+Cape Girardeau : 38816
+Annapolis : 38722
+Greenacres : 38696
+Ormond Beach : 38661
+Hallandale Beach : 38632
+Stanton : 38623
+Puyallup : 38609
+Pacifica : 38606
+Hanover Park : 38510
+Hurst : 38448
+Lima : 38355
+Marana : 38290
+Carpentersville : 38241
+Oakley : 38194
+Huber Heights : 38142
+Lancaster : 38071
+Montclair : 38027
+Wheeling : 38015
+Brookfield : 37999
+Park Ridge : 37839
+Florence : 37792
+Roy : 37733
+Winter Garden : 37711
+Chelsea : 37670
+Valley Stream : 37659
+Spartanburg : 37647
+Lake Oswego : 37610
+Friendswood : 37587
+Westerville : 37530
+Northglenn : 37499
+Phenix City : 37498
+Grove City : 37490
+Texarkana : 37442
+Addison : 37385
+Dover : 37366
+Lincoln Park : 37313
+Calumet City : 37240
+Muskegon : 37213
+Aventura : 37199
+Martinez : 37165
+Greenfield : 37159
+Apache Junction : 37130
+Monrovia : 37101
+Weslaco : 37093
+Keizer : 37064
+Spanish Fork : 36956
+Beloit : 36888
+Panama City : 36877
